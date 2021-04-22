@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabiazevedo&label=Profile%20views&color=0e75b6&style=flat" alt="gabiazevedo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabiazevedo" alt="gabiazevedo" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabiazevedo](https://github.com/gabiazevedo)
@@ -23,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabiazevedo&show_icons=true&locale=en&layout=compact" alt="gabiazevedo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabiazevedo&show_icons=true&locale=en" alt="gabiazevedo" /></p>
-
