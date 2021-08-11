@@ -33,3 +33,5 @@ Olá, 👋 me chamo **Gabriela Azevedo**, moro na região serrana do Rio de Jane
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabiazevedo&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabiazevedo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabiazevedo&show_icons=true&theme=dracula&locale=en" alt="gabiazevedo" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabiazevedo&label=Profile%20views&color=4b879b&style=flat" alt="gabiazevedo" /> </p>
