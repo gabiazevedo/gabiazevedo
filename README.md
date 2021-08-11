@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/gabiazevedoms/" target="_blank">
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/gabriela-azevedo-dev/" target="_blank">
+<a href="https://www.linkedin.com/in/gabiazevedoms/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
