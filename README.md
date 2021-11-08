@@ -21,7 +21,7 @@ Olá, 👋 me chamo **Gabriela Azevedo**, moro na região serrana do Rio de Jane
   <img align="right" alt="GIF" src="https://octodex.github.com/images/mona-the-rivetertocat.png" width="400px" />
   
 - 🔭 Foco total no Módulo de Back End - Trybe;
-- 🌱 Paralelamente estudando e desenvolvendo o conhecimento em aplicar Bootstrap nos projetos realizados neste módulo de Front; 
+- 🌱 Paralelamente estudando e desenvolvendo o conhecimento em aplicar Bootstrap nos projetos realizados no módulo de Front; 
 - 🤔 No meu tempo livre adoro estar em contato com a natureza, cozinhar, ler e assistir séries;
 - 📚 Aprendendo Docker e me encantando com o back end e seus mistérios;
 - 💬 Pergunte-me o que quiser! Amo conhecer pessoas novas e aprender com elas;
