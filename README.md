@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Olá, 👋 me chamo **Gabriela Azevedo**, moro na região serrana do Rio de Janeiro, formada em Desenvolvimento Web pela Trybe, atualmente atuo como estagiária em Desenvolvimento Back-End Node.js na [Quiq](https://somosquiq.com/?utm_source=google&utm_medium=cpc&utm_campaign=gen-delivery&utm_content=institucional&palavra=somos%20quiq&gclid=CjwKCAjwoduRBhA4EiwACL5RP4OjnwL7PZ3R6u85F59xnPz6c02mcmv1WCY2_Se8ZjTAkPM58oCkXBoCh8oQAvD_BwE) e estudante de **Ciência de Dados** 🚀. 
+Olá, 👋 me chamo **Gabriela Azevedo**, moro na região serrana do Rio de Janeiro, formada em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/), atualmente atuo como estagiária em Desenvolvimento Back-End Node.js na [Quiq](https://somosquiq.com/?utm_source=google&utm_medium=cpc&utm_campaign=gen-delivery&utm_content=institucional&palavra=somos%20quiq&gclid=CjwKCAjwoduRBhA4EiwACL5RP4OjnwL7PZ3R6u85F59xnPz6c02mcmv1WCY2_Se8ZjTAkPM58oCkXBoCh8oQAvD_BwE) e estudante de **Ciência de Dados** 🚀. 
 
 **Interesses pessoais:**
 
