@@ -14,16 +14,16 @@
 <br />
 <br />
 
-Olá, 👋 me chamo **Gabriela Azevedo**, moro na região serrana do Rio de Janeiro, sou confeiteira em transição de carreira e posso dizer que sou uma apaixonada estudante de **Desenvolvimento Web na Trybe** 🚀. 
+Olá, 👋 me chamo **Gabriela Azevedo**, moro na região serrana do Rio de Janeiro, sou estagiária em Desenvolvimento Back End e estudante de **Ciência de Dados** 🚀. 
 
 **Interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://octodex.github.com/images/mona-the-rivetertocat.png" width="400px" />
   
-- 🔭 Foco total no Módulo de Back End - Trybe;
-- 🌱 Paralelamente estudando e desenvolvendo o conhecimento em aplicar Bootstrap nos projetos realizados no módulo de Front; 
+- 🔭 Foco total no programa de estágio Girls in Tech - Quiq;
+- 🌱 Paralelamente estudando Ciência de Dados na Universidade Estácio de Sá; 
 - 🤔 No meu tempo livre adoro estar em contato com a natureza, cozinhar, ler e assistir séries;
-- 📚 Aprendendo Docker e me encantando com o back end e seus mistérios;
+- 📚 Reforçando os estudos em Java Script e Algoritmos;
 - 💬 Pergunte-me o que quiser! Amo conhecer pessoas novas e aprender com elas;
 - 📫 Para me encontrar basta enviar um e-mail para **gabiazevedoms@gmail.com**.
   
