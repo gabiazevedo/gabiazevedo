@@ -14,16 +14,16 @@
 <br />
 <br />
 
-Olá, 👋 me chamo **Gabriela Azevedo**, moro na região serrana do Rio de Janeiro, formada em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/), atualmente atuo como estagiária em Desenvolvimento Back-End Node.js na [Quiq](https://somosquiq.com/?utm_source=google&utm_medium=cpc&utm_campaign=gen-delivery&utm_content=institucional&palavra=somos%20quiq&gclid=CjwKCAjwoduRBhA4EiwACL5RP4OjnwL7PZ3R6u85F59xnPz6c02mcmv1WCY2_Se8ZjTAkPM58oCkXBoCh8oQAvD_BwE) e sou estudante de **Ciência de Dados** 🚀. 
+Olá, 👋 me chamo **Gabriela Azevedo**, moro em Petrópolis, região serrana do Rio de Janeiro, formada em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/), atualmente atuo como Software Developer no [Mercado Livre](https://www.mercadolivre.com.br/) e sou estudante de **Ciência de Dados** 🚀. 
 
 **Interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://octodex.github.com/images/mona-the-rivetertocat.png" width="400px" />
   
-- 🔭 Foco total no programa de estágio Girls in Tech - Quiq;
+- 🔭 Foco total no IT Bootcamp Java - Mercado Livre;
 - 🌱 Paralelamente estudando Ciência de Dados na Universidade Estácio de Sá; 
 - 🤔 No meu tempo livre adoro estar em contato com a natureza, cozinhar, ler e assistir séries;
-- 📚 Reforçando os estudos em Node.js e Algoritmos;
+- 📚 Absorvendo a Cultura e DNA Meli, em busca de aprimoramento contínuo;
 - 💬 Pergunte-me o que quiser! Amo conhecer pessoas novas e aprender com elas;
 - 📫 Para me encontrar basta enviar um e-mail para **gabiazevedoms@gmail.com**.
   
