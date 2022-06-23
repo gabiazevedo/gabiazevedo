@@ -32,6 +32,8 @@ Olá, 👋 me chamo **Gabriela Azevedo**, moro em Petrópolis, região serrana d
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabiazevedo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gabiazevedo" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabiazevedo&show_icons=true&theme=tokyonight&locale=en" alt="gabiazevedo" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabiazevedo&label=Profile%20views&color=4b879b&style=flat" alt="gabiazevedo" /> </p>
